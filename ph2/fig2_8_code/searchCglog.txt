@@ -1,0 +1,83 @@
+..*.*
+optimization finished, #iter = 1846
+nu = 0.487745
+obj = -7431373.511494, rho = -23.152142
+nSV = 249, nBSV = 222
+...*..*...*
+optimization finished, #iter = 6283
+nu = 0.711482
+obj = -19533226.692177, rho = -14.963807
+nSV = 617, nBSV = 587
+..*..*.*
+optimization finished, #iter = 3238
+nu = 0.452540
+obj = -9854397.666244, rho = 0.903905
+nSV = 318, nBSV = 289
+Total nSV = 866
+..*....*.*
+optimization finished, #iter = 3237
+nu = 0.474265
+obj = -7200257.779439, rho = -20.916331
+nSV = 243, nBSV = 213
+..*...*.*
+optimization finished, #iter = 4360
+nu = 0.698881
+obj = -19168943.605017, rho = -32.724957
+nSV = 602, nBSV = 574
+...*...*..*
+optimization finished, #iter = 5581
+nu = 0.461078
+obj = -10029982.712755, rho = 6.969009
+nSV = 323, nBSV = 292
+Total nSV = 855
+..*.*
+optimization finished, #iter = 1632
+nu = 0.443478
+obj = -6713428.397473, rho = -14.544117
+nSV = 228, nBSV = 200
+...*.....*...*..*
+optimization finished, #iter = 10124
+nu = 0.714821
+obj = -19634959.795729, rho = -34.933982
+nSV = 617, nBSV = 585
+...**.*.*
+optimization finished, #iter = 3606
+nu = 0.453503
+obj = -9853332.749345, rho = 20.701159
+nSV = 318, nBSV = 289
+Total nSV = 879
+..*....*
+optimization finished, #iter = 3081
+nu = 0.480983
+obj = -7345843.364711, rho = -1.883876
+nSV = 247, nBSV = 218
+...*.....*..*.*
+optimization finished, #iter = 7818
+nu = 0.714075
+obj = -19577970.048469, rho = -24.698047
+nSV = 617, nBSV = 585
+..*
+optimization finished, #iter = 1823
+nu = 0.448122
+obj = -9713380.236460, rho = 1.772777
+nSV = 313, nBSV = 284
+Total nSV = 865
+.....*.
+WARNING: using -h 0 may be faster
+*.*
+optimization finished, #iter = 3564
+nu = 0.483428
+obj = -7369841.015137, rho = -4.395734
+nSV = 246, nBSV = 220
+...*....*
+optimization finished, #iter = 6343
+nu = 0.704622
+obj = -19323284.054412, rho = -9.778503
+nSV = 609, nBSV = 576
+...*..*
+optimization finished, #iter = 3407
+nu = 0.441870
+obj = -9582806.625619, rho = 19.907670
+nSV = 309, nBSV = 280
+Total nSV = 844
+Cross Validation Accuracy = 55.743%
